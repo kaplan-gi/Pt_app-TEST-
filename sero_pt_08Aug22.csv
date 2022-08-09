@@ -1,4 +1,4 @@
-Index,PatientID,TestNumber,TestMonth,TestYear,VaccinationStatus,TestStatus,SpikeProteinRange,Result
+Index,PatientID,TestNumber,TestMonth,TestYear,VaccineStatus,TestStatus,SpikeProteinRange,Result
 1,5500210,1,June,2021,Post-1st,Completed,50-249,Positive
 2,5500210,2,November,2021,Post-3rd,Completed,5000-9999,Positive
 3,5500210,3,February,2022,Post-3rd,Completed,250-999,Positive
